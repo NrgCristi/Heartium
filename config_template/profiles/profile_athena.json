@@ -24,8 +24,8 @@
               "items": [
                 "AthenaDance:EID_BoogieDown",
                 "AthenaDance:EID_DanceMoves",
-                "",
-                "",
+                "AthenaDance:EID_Laugh",
+                "AthenaDance:EID_TakeTheL",
                 "",
                 ""
               ]
@@ -204,7 +204,7 @@
         },
         "use_count": 1,
         "banner_icon_template": "",
-        "locker_name": "NEOSET",
+        "locker_name": "HEARTIUM",
         "banner_color_template": "",
         "item_seen": false,
         "favorite": false
@@ -215,7 +215,7 @@
       "attributes": {
         "favorite": false,
         "item_seen": true,
-        "level": 0,
+        "level": 1000,
         "max_level_bonus": 0,
         "rnd_sel_cnt": 0,
         "variants": [],
@@ -227,7 +227,7 @@
       "attributes": {
         "favorite": false,
         "item_seen": true,
-        "level": 0,
+        "level": 1000,
         "max_level_bonus": 0,
         "rnd_sel_cnt": 0,
         "variants": [],
@@ -239,7 +239,7 @@
       "attributes": {
         "favorite": false,
         "item_seen": true,
-        "level": 0,
+        "level": 1000,
         "max_level_bonus": 0,
         "rnd_sel_cnt": 0,
         "variants": [],
@@ -251,7 +251,7 @@
       "attributes": {
         "favorite": false,
         "item_seen": true,
-        "level": 0,
+        "level": 1000,
         "max_level_bonus": 0,
         "rnd_sel_cnt": 0,
         "variants": [],
@@ -263,7 +263,7 @@
       "attributes": {
         "favorite": false,
         "item_seen": true,
-        "level": 0,
+        "level": 1000,
         "max_level_bonus": 0,
         "rnd_sel_cnt": 0,
         "variants": [],
@@ -275,7 +275,7 @@
       "attributes": {
         "favorite": false,
         "item_seen": true,
-        "level": 0,
+        "level": 1000,
         "max_level_bonus": 0,
         "rnd_sel_cnt": 0,
         "variants": [],
@@ -287,7 +287,7 @@
       "attributes": {
         "favorite": false,
         "item_seen": true,
-        "level": 0,
+        "level": 1000,
         "max_level_bonus": 0,
         "rnd_sel_cnt": 0,
         "variants": [],
@@ -299,7 +299,7 @@
       "attributes": {
         "favorite": false,
         "item_seen": true,
-        "level": 0,
+        "level": 1000,
         "max_level_bonus": 0,
         "rnd_sel_cnt": 0,
         "variants": [],
@@ -311,7 +311,7 @@
       "attributes": {
         "favorite": false,
         "item_seen": true,
-        "level": 0,
+        "level": 1000,
         "max_level_bonus": 0,
         "rnd_sel_cnt": 0,
         "variants": [],
@@ -323,7 +323,7 @@
       "attributes": {
         "favorite": false,
         "item_seen": true,
-        "level": 0,
+        "level": 1000,
         "max_level_bonus": 0,
         "rnd_sel_cnt": 0,
         "variants": [],
@@ -335,7 +335,7 @@
       "attributes": {
         "favorite": false,
         "item_seen": true,
-        "level": 0,
+        "level": 1000,
         "max_level_bonus": 0,
         "rnd_sel_cnt": 0,
         "variants": [],
@@ -347,7 +347,7 @@
       "attributes": {
         "favorite": false,
         "item_seen": true,
-        "level": 0,
+        "level": 1000,
         "max_level_bonus": 0,
         "rnd_sel_cnt": 0,
         "variants": [],
@@ -359,7 +359,7 @@
       "attributes": {
         "favorite": false,
         "item_seen": true,
-        "level": 0,
+        "level": 1000,
         "max_level_bonus": 0,
         "rnd_sel_cnt": 0,
         "variants": [],
@@ -371,7 +371,7 @@
       "attributes": {
         "favorite": false,
         "item_seen": true,
-        "level": 0,
+        "level": 1000,
         "max_level_bonus": 0,
         "rnd_sel_cnt": 0,
         "variants": [],
@@ -383,7 +383,7 @@
       "attributes": {
         "favorite": false,
         "item_seen": true,
-        "level": 0,
+        "level": 1000,
         "max_level_bonus": 0,
         "rnd_sel_cnt": 0,
         "variants": [],
@@ -395,7 +395,7 @@
       "attributes": {
         "favorite": false,
         "item_seen": true,
-        "level": 0,
+        "level": 1000,
         "max_level_bonus": 0,
         "rnd_sel_cnt": 0,
         "variants": [],
@@ -407,7 +407,7 @@
       "attributes": {
         "favorite": false,
         "item_seen": true,
-        "level": 0,
+        "level": 1000,
         "max_level_bonus": 0,
         "rnd_sel_cnt": 0,
         "variants": [],
@@ -419,7 +419,7 @@
       "attributes": {
         "favorite": false,
         "item_seen": true,
-        "level": 0,
+        "level": 1000,
         "max_level_bonus": 0,
         "rnd_sel_cnt": 0,
         "variants": [],
@@ -431,7 +431,7 @@
       "attributes": {
         "favorite": false,
         "item_seen": true,
-        "level": 0,
+        "level": 1000,
         "max_level_bonus": 0,
         "rnd_sel_cnt": 0,
         "variants": [],
@@ -443,7 +443,7 @@
       "attributes": {
         "favorite": false,
         "item_seen": true,
-        "level": 0,
+        "level": 1000,
         "max_level_bonus": 0,
         "rnd_sel_cnt": 0,
         "variants": [],
@@ -455,7 +455,7 @@
       "attributes": {
         "favorite": false,
         "item_seen": true,
-        "level": 0,
+        "level": 1000,
         "max_level_bonus": 0,
         "rnd_sel_cnt": 0,
         "variants": [],
