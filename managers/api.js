@@ -41,7 +41,7 @@ module.exports = (app) => {
 				"message": "Hi",
 				"maintenanceUri": "https://discord.gg/7esE8hT6YX",
 				"allowedActions": [],
-				"banned": false,
+				"banned": true,
 				"launcherInfoDTO": {
 					"appName": "Fortnite",
 					"catalogItemId": "4fe75bbc5a674f4f9b356b5c90567da5",
