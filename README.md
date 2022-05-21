@@ -1,6 +1,6 @@
 Download Node.JS From This Link: https://nodejs.org/en/ (THIS IS REQUIRED)
 Then Download This Project
-Then Run run.bat
+Then Run run.bat (MAKE SURE TO KEEP IT OPENED)
 Then Download Carbon From This Link: https://github.com/NeoniteDev/Carbon
 Then Run CarbonLauncher.exe (If The Launcher Dosen t Run Turn Off Your Anti Virus But don t worry this isn t a virus)
 Then Type Your Username
