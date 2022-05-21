@@ -30,9 +30,9 @@ global.xmppClients = [];
 global.port = 5595;
 global.LobbyBotPort = 80;
 
-axios.defaults.headers["user-agent"] = `NeoniteServer/${version} axios/${axiosPackage.version}`;
+axios.defaults.headers["user-agent"] = `Heartium/${version} axios/${axiosPackage.version}`;
 
-axios.get('https://raw.githubusercontent.com/NeoniteDev/NeoniteV2/main/package.json', { validateStatus: undefined }).then((response) => {
+axios.get('https://github.com/CristianCosticea/Heartium', { validateStatus: undefined }).then((response) => {
 	if (response.status == 200) {
 		var compare = versionCompare(response.data.version, version);
 
