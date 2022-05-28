@@ -44,7 +44,7 @@ wss.on("connection", ws => {
 
     var AuthType
 
-    var BotJid = `NeoniteBot@neonite.dev/V2:Fortnite:WIN::Neonite-Bot-By-BeatYT`
+    var BotJid = `HeartiumBot@heartium.dev/V2:Fortnite:WIN::Heartium-Bot-By-NRG Cristi`
 
     //SendMessage("pogu")
 
@@ -586,8 +586,8 @@ wss.on("connection", ws => {
                     "revision": 0,
                     "ns": "Fortnite",
                     "party_id": "LobbyBotPartyLMFAO",
-                    "account_id": `NeoniteBot${BotNumber != 0 ? BotNumber : ""}`,
-                    "account_dn": "NeoniteBot",
+                    "account_id": `HeartiumBot${BotNumber != 0 ? BotNumber : ""}`,
+                    "account_dn": "HeartiumBot",
                     "member_state_removed": [],
                     "member_state_updated": {
                         "Default:Location_s": "PreLobby",
@@ -598,7 +598,7 @@ wss.on("connection", ws => {
                         "Default:NumAthenaPlayersLeft_U": "0",
                         "Default:SpectateAPartyMemberAvailable_b": "true",
                         "Default:UtcTimeStartedMatchAthena_s": "0001-01-01T00:00:00.000Z",
-                        "Default:GameReadiness_s": "NotReady",
+                        "Default:GameReadiness_s": "Ready",
                         "Default:InGameReadyCheckStatus_s": "None",
                         "Default:HiddenMatchmakingDelayMax_U": "0",
                         "Default:ReadyInputType_s": "Count",
@@ -630,7 +630,7 @@ wss.on("connection", ws => {
                     "ns": "Fortnite",
                     "party_id": "LobbyBotPartyLMFAO",
                     "account_id": `NeoniteBot${BotNumber != 0 ? BotNumber : ""}`,
-                    "account_dn": "NeoniteBot",
+                    "account_dn": "HeartiumBot",
                     "member_state_removed": [],
                     "member_state_updated": {
                         "Default:Location_s": "PreLobby",
@@ -643,7 +643,7 @@ wss.on("connection", ws => {
                         "Default:NumAthenaPlayersLeft_U": "0",
                         "Default:SpectateAPartyMemberAvailable_b": "true",
                         "Default:UtcTimeStartedMatchAthena_s": "0001-01-01T00:00:00.000Z",
-                        "Default:GameReadiness_s": "NotReady",
+                        "Default:GameReadiness_s": "Ready",
                         "Default:InGameReadyCheckStatus_s": "None",
                         "Default:HiddenMatchmakingDelayMax_U": "0",
                         "Default:ReadyInputType_s": "Count",
