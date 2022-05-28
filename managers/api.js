@@ -38,8 +38,8 @@ module.exports = (app) => {
 			{
 				"serviceInstanceId": serviceId,
 				"status": "UP",
-				"message": "Hi",
-				"maintenanceUri": "https://discord.gg/7esE8hT6YX",
+				"message": "Welcome To Heartium",
+				"maintenanceUri": "https://discord.gg/bpUXUYvYZr",
 				"allowedActions": [],
 				"banned": false,
 				"launcherInfoDTO": {
@@ -56,8 +56,8 @@ module.exports = (app) => {
 		res.json({
 			"serviceInstanceId": serviceId,
 			"status": "UP",
-			"message": "Hello",
-			"maintenanceUri": "https://discord.gg/7esE8hT6YX",
+			"message": "Welcome To Heartium",
+			"maintenanceUri": "https://discord.gg/bpUXUYvYZr",
 			"allowedActions": [],
 			"banned": true,
 			"launcherInfoDTO": {
