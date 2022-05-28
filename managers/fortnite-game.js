@@ -108,8 +108,7 @@ module.exports = (app, port) => {
                 "itemsList": {
                     "_type": "ShopCarouselItemList",
                     "items": [{
-                        "tileImage": `http://127.0.0.1:${port}/NeoniteWallpaper1920x1080.png`,
-                        "fullTitle": "Neonite",
+                        "fullTitle": "Heartium",
                         "hidden": true,
                         "_type": "ShopCarouselItem",
                         "landingPriority": 100,
@@ -130,7 +129,6 @@ module.exports = (app, port) => {
                 "backgrounds": {
                     "backgrounds": [
                         {
-                            "backgroundimage": `http://127.0.0.1:${port}/NeoniteLobby.png`,
                             "stage": "defaultnotris",
                             "_type": "DynamicBackground",
                             "key": "lobby"
@@ -1591,12 +1589,11 @@ module.exports = (app, port) => {
             },
             playlistinformation: content.playlistinformation,
             "_suggestedPrefetch": [
-                `http://127.0.0.1:${port}/NeoniteWallpaper1920x1080.png`,
-                `http://127.0.0.1:${port}/Neonite1024.png`
+               
             ]
         })
     })
-    //implementation needed in the future, response example: https://api.nitestats.com/v1/epic/prm/motd
+
     /*app.post("/api/v1/fortnite-br/surfaces/motd/target", (req, res) => {
         res.status(404).end();
     })*/
