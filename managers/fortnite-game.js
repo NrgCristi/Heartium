@@ -78,7 +78,7 @@ module.exports = (app, port) => {
                         "image": `http://127.0.0.1:${port}/NeoniteWallpaper1920x1080.png`,
                         "tileImage": `http://127.0.0.1:${port}/Neonite1024.png`,
                         "videoMute": true,
-                        "hidden": true,
+                        "hidden": false,
                         "tabTitleOverride": "Heartium",
                         "_type": "CommonUI Simple Message MOTD",
                         "title": "Heartium",
