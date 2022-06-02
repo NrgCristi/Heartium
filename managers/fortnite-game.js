@@ -60,10 +60,10 @@ module.exports = (app, port) => {
                     "_type": "Emergency Notices",
                     "emergencynotices": [
                         {
-                            "hidden": true,
+                            "hidden": false,
                             "_type": "CommonUI Emergency Notice Base",
-                            "title": "Neonite V2",
-                            "body": "Made by kemo (@xkem0x) and Beat (@TheBeatYT_evil)..\r\nDiscord: https://discord.gg/DJ6VUmD",
+                            "title": "Heartium",
+                            "body": "Made by NRG Cristi",
                         }
                     ]
                 },
@@ -78,7 +78,7 @@ module.exports = (app, port) => {
                         "image": `http://127.0.0.1:${port}/NeoniteWallpaper1920x1080.png`,
                         "tileImage": `http://127.0.0.1:${port}/Neonite1024.png`,
                         "videoMute": true,
-                        "hidden": false,
+                        "hidden": true,
                         "tabTitleOverride": "Heartium",
                         "_type": "CommonUI Simple Message MOTD",
                         "title": "Heartium",
@@ -109,7 +109,7 @@ module.exports = (app, port) => {
                     "_type": "ShopCarouselItemList",
                     "items": [{
                         "fullTitle": "Heartium",
-                        "hidden": true,
+                        "hidden": false,
                         "_type": "ShopCarouselItem",
                         "landingPriority": 100,
                         "action": "ShowOfferDetails",
