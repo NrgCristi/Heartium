@@ -34,7 +34,7 @@ module.exports = (app, port) => {
                     "platform_messages": [],
                     "_type": "Battle Royale News",
                     "messages": [{
-                        "hidden": true,
+                        "hidden": false,
                         "_type": "CommonUI Simple Message Base",
                         "subgame": "br",
                         "body": "Made by NRG Cristi",
