@@ -59,7 +59,7 @@ module.exports = (app) => {
 			"message": "Welcome To Heartium",
 			"maintenanceUri": "https://discord.gg/bpUXUYvYZr",
 			"allowedActions": [],
-			"banned": true,
+			"banned": false,
 			"launcherInfoDTO": {
 				"appName": "Fortnite",
 				"catalogItemId": "4fe75bbc5a674f4f9b356b5c90567da5",
