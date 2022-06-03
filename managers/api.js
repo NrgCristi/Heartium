@@ -558,7 +558,7 @@ module.exports = (app) => {
 			},
 			"version": 93,
 			"active": true,
-			"disabled": true,
+			"disabled": false,
 			"created": "2021-08-16T16:43:18.268Z",
 			"published": "2021-08-03T15:27:17.540Z",
 			"descriptionTags": [
@@ -869,9 +869,9 @@ module.exports = (app) => {
 
 		res.json({
 			"id": req.params.sessionId,
-			"ownerId": "Neonite",
-			"ownerName": "Neonite",
-			"serverName": "NeoniteV2",
+			"ownerId": "Heartium",
+			"ownerName": "Heartium",
+			"serverName": "Heartium",
 			"serverAddress": "127.0.0.1",
 			"serverPort": -1,
 			"totalPlayers": 0,
