@@ -298,7 +298,7 @@ wss.on("connection", ws => {
                     profiledata.items[uuid.v4()] = {
                         "templateId": "GiftBox:GB_GiftWrap1",
                         "attributes": {
-                            "max_level_bonus": 0,
+                            "max_level_bonus": 9999,
                             "fromAccountId": "NeoniteBot",
                             "lootList": [
                                 {
@@ -308,12 +308,12 @@ wss.on("connection", ws => {
                                     "quantity": 1
                                 }
                             ],
-                            "level": 1,
+                            "level": 9999,
                             "item_seen": true,
                             "xp": 0,
                             "giftedOn": new Date(),
                             "params": {
-                                "userMessage": "Thanks for using Neonite"
+                                "userMessage": "Thanks for using Heartium!"
                             },
                             "favorite": true
                         },
