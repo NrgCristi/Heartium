@@ -1,0 +1,8 @@
+{
+  "host": "localhost", //use change to 0.0.0.0 if you want to host on replit
+  "port": 1942,
+  "emergencynotice": "Welcome To Heartium!",
+  "background": "season1",
+  "custom_bg_url": true,
+  "background_image_url": "https://th.bing.com/th/id/R.6dd2ff00e056810aba02cdefa7174bef?rik=XncEdMESwYgm0A&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f06%2fPictures-Desktop-Star-Wars.jpg&ehk=nS4gzOjRmrgLRg%2bLLTz3rjJybZQqZgG6S7oE0YBtl6A%3d&risl=&pid=ImgRaw&r=0"
+}
