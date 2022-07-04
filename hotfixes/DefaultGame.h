@@ -90,7 +90,7 @@ bUploadAthenaStatsV2=false
 bCustomKeyEnabled=false
 )";
 
-	inline std::string name = "DefaultGame.ini";
+	inline std::string name = "DefaultGame.h";
 	inline std::string sha1 = "test";
 	inline std::string sha256 = "test";
 }
