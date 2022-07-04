@@ -42,7 +42,7 @@ bEnableWebsockets=false
 +RegionDefinitions=(DisplayName=NSLOCTEXT("MMRegion", "NPP", "NPP"), RegionId="NPP", bEnabled=true, bVisible=true, bAutoAssignable=true)
 )";
 
-	inline std::string name = "DefaultEngine.ini";
+	inline std::string name = "DefaultEngine.h";
 	inline std::string sha1 = "C8C23C183E44C2AADD3D7DE90CAF451DDD2D6E82";
 	inline std::string sha256 = "223C13EDE8ECF4C4EF8702B8FCC5A247C27A98F399DA03054D3F8F119C0F0D4A";
 }
