@@ -30,7 +30,7 @@ bAllowAllReplays=true
 #endif
 
 
-	inline std::string name = "DefaultRuntimeOptions.ini";
+	inline std::string name = "DefaultRuntimeOptions.h";
 	inline std::string sha1 = "holder";
 	inline std::string sha256 = "holder";
 }
